@@ -26,6 +26,7 @@ namespace DemoGit
         public MainWindow()
         {
             InitializeComponent();
+            //je fais un test
         }
     }
 }
